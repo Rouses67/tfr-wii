@@ -1,0 +1,12 @@
+# El juego original y los assets convertidos NO se suben al repositorio:
+# los conviertes tú en local y los copias a la SD.
+*.pck
+*.exe
+*.zip
+work/
+out/
+wii/build/
+wii/*.elf
+wii/*.dol
+wii/*.map
+__pycache__/
